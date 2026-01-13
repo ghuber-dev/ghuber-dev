@@ -1,4 +1,6 @@
-# Hi, I’m Gabriel Huber
+Hi, I'm
+
+![Gabriel Huber](https://raw.githubusercontent.com/ghuber-dev/ghuber-dev/refs/heads/main/flamingtext.gif)
 
 I’m 18 (born 2007), a full-stack web developer and graphic designer focused on **PHP, Laravel, and native JavaScript**, with working experience in **React, Next.js, and Express.js**.
 
