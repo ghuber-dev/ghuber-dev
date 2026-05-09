@@ -27,8 +27,7 @@ Additional experience with **Python** (3 years), **React, Next.js** (2–3 years
 
 - Working as an ambulance dispatcher at [New Canadian Medical Transfer](https://ncmt.ca); designed and built an internal web panel from scratch using Laravel and React, still in active use by dispatch staff
 - Working on [youtube-2008](https://github.com/ghuber-dev/youtube-2008)
-- Finishing high school
-- Applying to university
+- Future Laurier CS BSc '30 alumni
 
 ---
 
